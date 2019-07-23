@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Survival", "Space Survival.csproj", "{FBD4A456-AA32-1CA4-2D98-708BCF3D583C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Survival.Editor", "Space Survival.Editor.csproj", "{56E46B2B-FB32-DFE3-D9F9-645B71F7D218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD4A456-AA32-1CA4-2D98-708BCF3D583C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD4A456-AA32-1CA4-2D98-708BCF3D583C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD4A456-AA32-1CA4-2D98-708BCF3D583C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD4A456-AA32-1CA4-2D98-708BCF3D583C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E46B2B-FB32-DFE3-D9F9-645B71F7D218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E46B2B-FB32-DFE3-D9F9-645B71F7D218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E46B2B-FB32-DFE3-D9F9-645B71F7D218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E46B2B-FB32-DFE3-D9F9-645B71F7D218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
